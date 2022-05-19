@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://atoz-labs.com
+
+# Sitemaps
+Sitemap: https://atoz-labs.com/sitemap.xml
